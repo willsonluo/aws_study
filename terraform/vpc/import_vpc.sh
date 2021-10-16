@@ -1,1 +1,0 @@
-terraform import aws_default_vpc.default vpc-78c62d11
